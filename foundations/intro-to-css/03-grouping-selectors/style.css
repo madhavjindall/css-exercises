@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.first,.second{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger; 
+}
+.first{
+    color:white;
+    background-color: black;
+}
+.second{
+    color:black;
+    background-color: yellow;
+}
