@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.odd{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans,sans-serif;
+
+}
+.odd#ochild{
+    font-size: 32px;
+}
+.second{
+    color: blue;
+    font-size: 36px;
+}
+.fourth{
+    background-color:rgba(0, 100, 0, 40);
+    font-weight: bolder;
+    font-size: 24px;
+}
